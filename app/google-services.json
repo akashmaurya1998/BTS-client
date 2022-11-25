@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "56380439306",
+    "firebase_url": "https://smts-d6c7c-default-rtdb.firebaseio.com",
+    "project_id": "smts-d6c7c",
+    "storage_bucket": "smts-d6c7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56380439306:android:8fe1669a8def1c84b818f3",
+        "android_client_info": {
+          "package_name": "com.example.murariadminapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56380439306-rei6f0brhclpu6jk6tl55p2bg29f515m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.murariadminapp",
+            "certificate_hash": "4eadebc65179f0cbb8540ca048070a7c6508fbc3"
+          }
+        },
+        {
+          "client_id": "56380439306-29pb57h80s6huk5mpumvatp4iihrne43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1A2lYGHUNCnBx8CMm0a-pvHyBlS8pWLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56380439306-29pb57h80s6huk5mpumvatp4iihrne43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56380439306:android:a3ec2d917c926625b818f3",
+        "android_client_info": {
+          "package_name": "com.example.murarikrishnabts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56380439306-l8h7a90mn8v2lqh42s6h5jdkeio215sb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.murarikrishnabts",
+            "certificate_hash": "4eadebc65179f0cbb8540ca048070a7c6508fbc3"
+          }
+        },
+        {
+          "client_id": "56380439306-29pb57h80s6huk5mpumvatp4iihrne43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1A2lYGHUNCnBx8CMm0a-pvHyBlS8pWLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56380439306-29pb57h80s6huk5mpumvatp4iihrne43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
